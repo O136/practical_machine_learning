@@ -29,7 +29,7 @@ less than 5. It will make it easier for the graders to submit a repo with a gh-p
 
 ## HTML report page (gh-pages) ##
 
-Please open [this GitHub link](https://github.com/O136/practical_machine_learning/).  
+Please open [this GitHub link](https://htmlpreview.github.io/?https://github.com/O136/practical_machine_learning/blob/gh-pages/index.html).  
 
 The HTML file is in the `gh-pages` branch.    
 The R markdown file (Rmd) is in the `master` branch.     
